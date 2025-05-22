@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
   
         {/* Bottom Copyright */}
-        <div className="text-center pt-3 pb-10  text-white text-sm font-semibold">
+        <div className="text-center pt-3 pb-10  text-white text-md font-semibold">
           © 2024 Capitol Industries. All rights reserved.
         </div>
       </div>
